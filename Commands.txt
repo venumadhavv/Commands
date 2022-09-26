@@ -1,0 +1,55 @@
+--> py manage.py runserver 
+
+--> npm install react-bootstrap bootstrap
+
+--> nm install react-router-dom
+
+-->npm install axios
+
+--> pip install django-cors-headers
+
+--> npm install react-router 
+
+--> py manage.py makemigrations
+
+--> py manage.py migrate
+
+--> npm install -g create-react-app
+
+-->pip install azure-storage-blob
+
+-->pip install django       
+
+-->python manage.py createsuperuser       
+
+-->python manage.py startapp pepsi        
+
+-->python manage.py collectstatic         - azure 
+
+-->pip install django-storages[azure]     
+
+-->pip install azure-storage
+
+-->pip install storages
+
+-->pip install django-filter
+
+-->pip install djangorestframework        
+
+-->python -m pip install Pillow - when image filed in models.py use this
+
+--> pip install virtualenv 
+
+--> virtualenv myenv
+
+-->  Set-ExecutionPolicy Unrestricted    
+
+-->npm install @mui/icons-material                                                                                                   
+
+-->npm install @mui/material @emotion/react @emotion/styled                                                                          
+
+-->npm install @mui/material @mui/styled-engine-sc styled-components                                                                 
+
+-->Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy restricted                                                                
+
+-->Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted                                                                                                                                               
